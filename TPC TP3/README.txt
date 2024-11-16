@@ -1,0 +1,1 @@
+Dividimos o código num conjunto de loops, em que, calculando o número de fósforos necessários para colocar o outro jogador numa posição em que fosse impossível vencer, o computador realizaria sempre essa jogada, vencendo sempre que começasse em segundo, ou que o jogador realizasse um erro de cálculo.
