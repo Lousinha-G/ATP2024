@@ -1,4 +1,4 @@
-# RESUMO DO TPC3
+# RESUMO DO TPC2
 ## Data: 2024/09/16
 ## Autor: Pedro Lousinha
 ## Resumo:
